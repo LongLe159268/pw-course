@@ -78,4 +78,4 @@ máy khác nhau (GitHub)
 - Cú pháp: if (<điều kiện>) { // code }. Nếu điều kiện đúng, sẽ chạy đoạn code
 
 **8. Loop: Dùng để thực hiện một đoạn logic một số lần nhất định**
-- Cú pháp: for(<khởi tạo>; <điều kiện dừng>; <điều kiện tăng>) { // code }
+- Cú pháp: for(<khởi tạo>; <điều kiện dừng>; <điều kiện tăng>) { // code }.
