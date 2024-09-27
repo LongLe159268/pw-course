@@ -12,8 +12,6 @@
 // - Kết nối với Trung tâm Điều khiển: Gọi hàm launchShip và in thông điệp chào mừng ra
 // console.
 
-const { text } = require("stream/consumers");
-
 let departurePlanet = "Trái Đất";
 let mission = "Khám phá Vũ trụ K9";
 let crew = ["Nga", "Phong", "Thai", "Uyên", "Uyên", "Lan anh", "Trang", "Duyên", "Khanh", "Lâm", "Khánh", "Tuấn", "Thoại", "Thủy", "Long"];
